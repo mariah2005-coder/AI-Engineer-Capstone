@@ -9,7 +9,7 @@ This repository tracks the capstone deliverables for the AI Engineer internship:
 ## Teck Stack
 
 - **Language:** JavaScript / TypeScript
-- **Tools:** Claude Code
+- **Tools:** Cursor
 
 ## Getting Started
 
